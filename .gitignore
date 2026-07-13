@@ -1,0 +1,15 @@
+.idea
+
+admin/.env
+
+backend/.env
+
+docs/
+
+frontend/.env
+
+mobileapp/
+
+scripts/
+
+vehicle_gps_tracker/
