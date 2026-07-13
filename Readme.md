@@ -192,7 +192,15 @@ git clone https://github.com/yourusername/real-time-vehicle-booking-platform.git
 #### Frontend
 
 ```bash
-cd client
+cd frontend
+npm install
+npm run dev
+```
+
+#### Admin
+
+```bash
+cd admin
 npm install
 npm run dev
 ```
@@ -200,7 +208,7 @@ npm run dev
 #### Backend
 
 ```bash
-cd server
+cd backend
 npm install
 npm start
 ```
